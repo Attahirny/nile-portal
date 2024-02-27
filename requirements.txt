@@ -1,0 +1,4 @@
+requests
+getpass
+tabulate
+bs4
