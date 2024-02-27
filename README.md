@@ -1,2 +1,2 @@
 # nile-portal
-A script that can be used to scrap the Nile University Portal.
+A script that can be used to scrape the Nile University Portal.
