@@ -22,7 +22,7 @@ This Python script allows you to scrape your academic transcript from the Nile U
    ```shell
    python grades.py
    ```
-4. Enter your student ID and Nile portal password when prompted.
+4. Enter your student ID and Nile portal password when prompted. (Note: password input will be hidden)
 5. The script will scrape your academic transcript and display it in tabular format.
 
 ## Note
